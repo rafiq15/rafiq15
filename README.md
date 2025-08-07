@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Rafiqul Islam
-#### Java Spring boot Developer
-![Java Spring boot Developer](https://media.licdn.com/dms/image/v2/C5103AQE2qREtruT65w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1576922623043?e=1753315200&v=beta&t=1ILZEVGi60eGF8FWFCZ1589-MxmYRi7fmtGbLhfqf94)
-
+#### Java Spring Boot Developer
 Senior Software Engineer with 9+ years of experience designing, developing, and maintaining scalable backend systems using Java, Spring Boot, and a variety of DevOps and cloud-native tools.
 
 I specialize in building robust, high-performance, and secure backend services. My focus is on writing clean, maintainable code, optimizing system performance, and delivering production-grade solutions that scale. I’m a strong advocate for collaboration, continuous improvement, and automation.
